@@ -1,2 +1,2 @@
-# mbn_tour
+# tourism
 mabini tourism
